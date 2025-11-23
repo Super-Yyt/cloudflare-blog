@@ -1,6 +1,6 @@
 +++
 date = '2025-11-23T06:51:48Z'
-draft = true
+draft = false
 title = '520.RE诞生！'
 +++
 # 恭喜！520.RE诞生！
